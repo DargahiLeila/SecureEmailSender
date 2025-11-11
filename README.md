@@ -65,12 +65,12 @@ Use the menu to encrypt your password and send emails
 ##  📁 Project Structure
 ```
 /Forms
-  ├── MainForm.cs
-  ├── SendEmailForm.cs
-  └── EncryptPasswordForm.cs
+  ├── FrmMain.cs
+  ├── FrmSendEmail.cs
+  └── FrmEncryptRealPassword.cs
 /Helpers
   ├── CryptoHelper.cs
-  └── FileValidator.cs
+  └── AttachmentValidator.cs
 App.config  
 Program.cs
 ```
