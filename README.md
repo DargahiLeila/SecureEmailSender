@@ -40,7 +40,5 @@ Update your `App.config` with the following keys:
 </appSettings>
 
 
-🔒 Use the Encrypt Password form to generate a secure value for EmailPasswordEecrypt.
-
 
 ئتئدذادئلذرز
