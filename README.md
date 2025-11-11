@@ -38,3 +38,39 @@ Update your `App.config` with the following keys:
   <add key="SmtpPort" value="465"/>
   <add key="EmailPasswordEecrypt" value="YourEncryptedPasswordHere"/>
 </appSettings>
+
+
+## 🔒 Use the Encrypt Password form to generate a secure value for EmailPasswordEecrypt.
+
+## 🛠️Requirements
+.NET Framework 4.7.2 or later
+
+Visual Studio 2019 or newer
+
+🚀 How to Run
+Clone the repository
+
+Open the solution in Visual Studio
+
+Update App.config with your SMTP settings
+
+Build and run the project
+
+Use the menu to encrypt your password and send emails
+
+## 📁 Project Structure
+/Forms
+  ├── MainForm.cs
+  ├── SendEmailForm.cs
+  └── EncryptPasswordForm.cs
+/Helpers
+  ├── CryptoHelper.cs
+  └── FileValidator.cs
+App.config
+Program.cs
+
+## 📌 Notes
+This project is for educational/demo purposes. Do not hardcode real credentials in production.
+
+For production use, consider secure storage like Windows Credential Manager or Azure Key Vault.
+
