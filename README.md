@@ -62,8 +62,8 @@ Build and run the project
 
 Use the menu to encrypt your password and send emails
 
- 📁 Project Structure
-
+##  📁 Project Structure
+```
 /Forms
   ├── MainForm.cs
   ├── SendEmailForm.cs
@@ -73,7 +73,7 @@ Use the menu to encrypt your password and send emails
   └── FileValidator.cs
 App.config  
 Program.cs
-
+```
 
 
 📌 Notes
