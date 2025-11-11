@@ -28,7 +28,6 @@ A lightweight C# Windows Forms application for securely sending emails with encr
 
 ---
 
-
 ## ⚙️ Configuration
 
 Update your `App.config` with the following keys:
