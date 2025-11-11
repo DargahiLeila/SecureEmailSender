@@ -28,17 +28,13 @@ A lightweight C# Windows Forms application for securely sending emails with encr
 
 ---
 
-## ⚙️ Configuration
+## 🖼️ UI Overview
 
-Update your `App.config` with the following keys:
+- **Main Form**: Menu with `Send Email`, `Encrypt Password`, and `Exit`
+- **Send Email Form**: Email fields + attachment grid + send button
+- **Encrypt Password Form**: Input + encrypted output
 
-```xml
-<appSettings>
-  <add key="SmtpServer" value="mail.example.com"/>
-  <add key="SmtpPort" value="465"/>
-  <add key="EmailPasswordEecrypt" value="YourEncryptedPasswordHere"/>
-</appSettings>
-
+---
 
 
 ## 🛠️Requirements
