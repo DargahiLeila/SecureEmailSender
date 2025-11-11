@@ -28,7 +28,7 @@ A lightweight C# Windows Forms application for securely sending emails with encr
 
 ---
 
-## 🖼️ UI Overview
+## ⚙️ Configuration
 
 - **Main Form**: Menu with `Send Email`, `Encrypt Password`, and `Exit`
 - **Send Email Form**: Email fields + attachment grid + send button
