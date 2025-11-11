@@ -33,7 +33,7 @@ A lightweight C# Windows Forms application for securely sending emails with encr
 
 Update your `App.config` with the following keys:
 
-```xml
+
 <appSettings>
   <add key="SmtpServer" value="mail.example.com"/>
   <add key="SmtpPort" value="465"/>
