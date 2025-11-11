@@ -38,7 +38,7 @@ Update your `App.config` with the following keys:
   <add key="SmtpPort" value="465"/>
   <add key="EmailPasswordEecrypt" value="YourEncryptedPasswordHere"/>
 </appSettings>
-## 🔒 Use the Encrypt Password form to generate a secure value for EmailPasswordEecrypt.
+🔒 Use the Encrypt Password form to generate a secure value for EmailPasswordEecrypt.
 
 
 
