@@ -42,6 +42,10 @@ Update your `App.config` with the following keys:
 
 ## 🔒 Use the Encrypt Password form to generate a secure value for EmailPasswordEecrypt.
 
+
+
+
+
 ## 🛠️Requirements
 .NET Framework 4.7.2 or later
 
