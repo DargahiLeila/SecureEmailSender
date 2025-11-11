@@ -31,7 +31,6 @@ A lightweight C# Windows Forms application for securely sending emails with encr
 ## ⚙️ Configuration
 
 Update your `App.config` with the following keys:
-
 ```xml
 <appSettings>
   <add key="SmtpServer" value="mail.example.com"/>
