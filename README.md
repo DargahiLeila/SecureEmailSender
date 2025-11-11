@@ -38,7 +38,7 @@ Update your `App.config` with the following keys:
   <add key="SmtpPort" value="465"/>
   <add key="EmailPasswordEecrypt" value="YourEncryptedPasswordHere"/>
 </appSettings>
-
+```
 
 
 
